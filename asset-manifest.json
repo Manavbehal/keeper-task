@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keeper-task/static/css/main.0efe3f54.css",
+    "main.js": "/keeper-task/static/js/main.ee7589a2.js",
+    "index.html": "/keeper-task/index.html",
+    "main.0efe3f54.css.map": "/keeper-task/static/css/main.0efe3f54.css.map",
+    "main.ee7589a2.js.map": "/keeper-task/static/js/main.ee7589a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0efe3f54.css",
+    "static/js/main.ee7589a2.js"
+  ]
+}
